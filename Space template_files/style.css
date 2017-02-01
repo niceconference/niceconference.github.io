@@ -110,6 +110,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block {
   color: #ffffff;
+  
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
@@ -138,8 +139,9 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #CBBFA8;
+  color: #000000;
   padding-top: 20px;
+  font-family: 'Lato', sans-serif;
 }
 #intro .block img {
   padding-left: 40px;
