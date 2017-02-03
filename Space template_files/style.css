@@ -830,3 +830,26 @@ footer .footer-manu ul li a:hover {
 ::-moz-selection {
   background: #fff;
 }
+
+.time {
+  color: #494949;
+  padding: 0; 
+  font-size: 6em;
+  user-select: none;
+}
+
+.timer h3 {
+  user-select: none;
+}
+
+.timer .col-sm-3 > .thumbnail{
+  border-radius: 0;
+  height: 18em;
+  width: 18em;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
