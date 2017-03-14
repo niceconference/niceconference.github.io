@@ -160,6 +160,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
  background: url("../Images/back11.jpg") no-repeat;
   text-align: justify;
+  height: auto;
+  min-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   padding: 90px 0;
 }
 #service .service-item {
@@ -879,4 +883,9 @@ footer .footer-manu ul li a:hover {
 
 .marginsdiv margins{
   margin-left: 16em;
+}
+
+.sizeofbut>li>a{
+  font-size: 14px;
+  margin-top: 7px;
 }
