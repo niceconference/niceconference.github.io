@@ -868,3 +868,11 @@ footer .footer-manu ul li a:hover {
   height: 400px;
   width: 100%;
 }
+
+.black_text p{
+  color: #000000;
+  size: 16em;
+}
+.black_text h3{
+  color: #4e342e;
+}
