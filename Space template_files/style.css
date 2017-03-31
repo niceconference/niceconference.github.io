@@ -185,6 +185,11 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+.pub_margins {
+  /*margin-top: -20px;*/
+  margin-bottom: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
 /*--
 	call-to-action Start
 --*/
