@@ -8,7 +8,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #239727;
+  background-color: #46B64A;
 }
 
 h1,
@@ -77,7 +77,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #666666;
+  color: #239727;
   padding: 10px 26px;
   font-size: 15px;
 }
@@ -91,7 +91,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../Images/back9.jpg") no-repeat;
+  background: url("../Images/back12.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -111,7 +111,7 @@ font header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #slider .block {
-  color: #ffffff;
+  color: #46B64A;
 }
 #slider .block > h1 {
   text-shadow: 2px -2px 1px #181F1C;
@@ -166,7 +166,7 @@ font header .navbar-default .navbar-nav li a:hover {
   min-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding: 90px 0;
+  padding: 0px 0;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -196,7 +196,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background: url("../Images/back13.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -214,7 +214,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: #1d192c;
-  opacity: 0.8;
+  opacity: 0;
 }
 
 #call-to-action .btn-view-works {
@@ -295,7 +295,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #feature .btn-view-works {
-  background: #655E7A;
   color: #fff;
   /*padding: 10px 20px;*/
 }
