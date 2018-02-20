@@ -843,9 +843,12 @@ footer .footer-manu ul li a:hover {
  *******************************************************************/
 
  #jd {
+   text-align: justify;
+   text-justify: inter-word;
    background: rgba(24,31,28, 0.7);
-   padding: 0.5rem 2rem;
+   border-radius: 10px;
    box-decoration-break: clone;
+   padding: 0.5rem 0rem;
  }
 
  ::selection {
@@ -868,6 +871,7 @@ footer .footer-manu ul li a:hover {
 }
 
 .timer .col-sm-3 > .thumbnail{
+  background-color: #46B64A;
   border-radius: 0;
   height: 18em;
   width: 18em;
